@@ -19,11 +19,11 @@ const App = () => (
     </Router>
     <PreactLibWithoutHook />
     <PreactLibWithHook />
-    <Layout
+    {/* <Layout
       data={{
         guid: "01a43bca-74f7-11eb-9439-0242ac130002",
         startTime: "06/07/2021 4:58:00 PM", // M/d/yyyy h:mm:ss tt (Show start time)
-        endTime: "06/08/2021 4:59:00 PM", // M/d/yyyy h:mm:ss tt (Show end time)
+        endTime: "06/11/2021 4:59:00 PM", // M/d/yyyy h:mm:ss tt (Show end time)
         VCF: (c) => 9 * c + 3908,
         video: {
           sourceUrl:
@@ -126,7 +126,7 @@ const App = () => (
             "https://calendar.google.com/calendar/u/0/r/eventedit?text=Testing&details=This+a+test+event&dates=20210504T070000Z/20210504T080000Z",
         },
       }}
-    />
+    /> */}
   </div>
 );
 

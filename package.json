@@ -27,8 +27,6 @@
     "sirv-cli": "1.0.3"
   },
   "dependencies": {
-    "agora-rtc-sdk-ng": "^4.5.0",
-    "agora-rtm-sdk": "^1.4.3",
     "astral": "file:../astral",
     "preact": "^10.3.2",
     "preact-lib": "file:../preact-lib",
