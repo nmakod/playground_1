@@ -27,7 +27,6 @@
     "sirv-cli": "1.0.3"
   },
   "dependencies": {
-    "astral": "file:../astral",
     "preact": "^10.3.2",
     "preact-lib": "file:../preact-lib",
     "preact-render-to-string": "^5.1.4",
